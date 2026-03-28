@@ -1,5 +1,6 @@
 # Team-11-ML-end-sem-project-
 **Project Overview**
+
 This project presents an **Adaptive Edge-Aware Anomaly Detection Framework** designed for IoT-based healthcare systems. With the rapid adoption of IoT medical devices for remote monitoring and real-time diagnostics, ensuring secure and efficient data processing has become a critical challenge.
 
 Traditional intrusion detection systems rely on centralized machine learning models, which introduce high latency, increased bandwidth usage, and limited adaptability to resource-constrained edge devices. These limitations can negatively impact real-time healthcare applications where timely and accurate responses are essential.
