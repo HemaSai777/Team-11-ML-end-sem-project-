@@ -31,32 +31,50 @@ cd Team-11-ML-end-sem-project
 Make sure Python (3.8 or above) is installed, then install the required packages:
 
 pip install pandas numpy matplotlib scikit-learn
-3. Dataset Setup
+** Dataset Setup**
 Place the dataset inside the dataset/ folder
+
 Or update the dataset path in the notebook based on your system
+
 If using Google Colab, mount your Google Drive and update the path accordingly
+
 **How to Run the Code**
-Option 1: Using Jupyter Notebook
+
+**Option 1: **Using Jupyter Notebook
+
 Open terminal in the project folder
+
 Run:
+
 jupyter notebook
+
 Open the file ML.ipynb
+
 Run all cells step-by-step
-Option 2: Using Google Colab
+
+**Option 2:** Using Google Colab
+
 Upload ML.ipynb to Google Colab
+
 Upload or connect your dataset
+
 Run all cells sequentially
+
 📂 Project Structure
 Team-11-ML-end-sem-project/
 │── ML.ipynb        # Main notebook file
 │── dataset/        # Dataset (may not be included due to size)
 │── README.md       # Project documentation
+
+
 ** Notes**
+
 The dataset may be large
 Ensure all required libraries are installed before running the code
 Update file paths according to your local system or environment
 For better performance, use a system with sufficient memory and processing power
-****Future Scope
+
+**Future Scope**
 Apply advanced machine learning algorithms
 Add more visualizations and insights
 Deploy the project as a web-based application
