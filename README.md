@@ -40,34 +40,34 @@ If using Google Colab, mount your Google Drive and update the path accordingly
 
 **How to Run the Code**
 
-**Option 1: **Using Jupyter Notebook
+**Option 1:** Using Jupyter Notebook
 
-Open terminal in the project folder
+1. Open terminal in the project folder
 
-Run:
+2. Run:
 
-jupyter notebook
+   jupyter notebook
 
-Open the file ML.ipynb
+3. Open the file ML.ipynb
 
-Run all cells step-by-step
+4. Run all cells step-by-step
 
 **Option 2:** Using Google Colab
 
-Upload ML.ipynb to Google Colab
+1. Upload ML.ipynb to Google Colab
 
-Upload or connect your dataset
+2. Upload or connect your dataset
 
-Run all cells sequentially
+3. Run all cells sequentially
 
 📂 Project Structure
 Team-11-ML-end-sem-project/
-│── ML.ipynb        # Main notebook file
-│── dataset/        # Dataset (may not be included due to size)
-│── README.md       # Project documentation
+│── ML.ipynb        
+│── dataset/        
+│── README.md       
 
 
-** Notes**
+**Notes**
 
 The dataset may be large
 Ensure all required libraries are installed before running the code
