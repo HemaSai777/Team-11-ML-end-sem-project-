@@ -24,7 +24,7 @@ By integrating adaptive feature compression with edge-aware learning, the system
 Follow these steps to set up the project on your system:
 
 1. Clone the Repository
-git clone https://github.com/HemaSai777/Team-11-ML-end-sem-project.git
+git clone https://github.com/HemaSai777/Team-11-ML-end-sem-project-
 cd Team-11-ML-end-sem-project
 2. Install Required Libraries
 
